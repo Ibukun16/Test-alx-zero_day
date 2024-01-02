@@ -1,1 +1,1 @@
-My root readme file. This is a test project
+The beginning of coding. This gives the introduction to project work
